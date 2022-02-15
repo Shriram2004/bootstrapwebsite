@@ -34,6 +34,16 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+### Home Page:
+![output](homepage1.jpg)
+
+![output](homepage2.jpg)
+
+### GD Message Page:
+![output](gd.jpg)
+
+### About Us - Evolution Page:
+![output](aboutus.jpg)
 
 ## OUTPUT:
 
